@@ -1,0 +1,16 @@
+package atividadeNova;
+
+public class AtendenteMedico {
+
+	String nome, endereco, motivoConsulta;
+
+	
+	void descreverPaciente(){	
+		System.out.print("O que voce esta sentindo ...");
+	}
+	
+	void confirmarConsulta(){	
+		System.out.print("Confirmando sua consulta...");
+	}
+	
+}

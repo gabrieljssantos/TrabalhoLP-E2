@@ -1,0 +1,16 @@
+package atividadeNova;
+
+public class Recepcionista {
+
+	public static void main(String[] args) {
+		
+		String nome, endereco;
+		int idade, cpf, telefone;
+		boolean horaMarcada;
+		
+		void marcarConsulta(){
+			
+		}
+	}
+
+}

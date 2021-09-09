@@ -1,0 +1,13 @@
+package atividadeNova;
+
+public class recepcionista {
+	
+	String nome, endereco;
+	int idade, cpf, telefone;
+	boolean horaMarcada;
+	
+	void marcarConsulta(nome){
+		
+	}
+	
+}

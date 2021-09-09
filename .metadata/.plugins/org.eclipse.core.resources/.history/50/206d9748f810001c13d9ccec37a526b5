@@ -1,0 +1,24 @@
+package atividadeNova;
+
+public class Recepcionista {
+	
+	String nomeCliente, enderecoCliente;
+	int idade, cpf, telefone;
+	boolean horaMarcada;
+	
+	void marcarConsulta(){	
+		System.out.print("Marquei sua consulta ...");
+		System.out.print("=-=-=-=-=-=-=-=-=-=-=-=-=-");
+	}
+	
+	void removerConsulta(){	
+		System.out.print("Removendo sua consulta...");
+		System.out.print("=-=-=-=-=-=-=-=-=-=-=-=-=-");
+	}
+	
+	void confirmarConsulta(){	
+		System.out.print("Confirmando sua consulta...");
+		System.out.print("=-=-=-=-=-=-=-=-=-=-=-=-=-");
+	}
+	
+}

@@ -1,0 +1,24 @@
+package atividadeNova;
+
+public class Medico {
+
+	String nome, endereco;
+	int idade, sexo;
+	boolean receitouRemedio;
+	
+	void chamarPaciente(){	
+		System.out.print("Pode vir Fulano...");
+		System.out.print("=-=-=-=-=-=-=-=-=-=-=-=-=-");
+	}
+	
+	void pedirSintomas(){	
+		System.out.print("Me diga o que esta sentindo...");
+		System.out.print("=-=-=-=-=-=-=-=-=-=-=-=-=-");
+	}
+	
+	void receitarRemedio(){	
+		System.out.print("Voce precisa tomar os seguintes remedios...");
+		System.out.print("=-=-=-=-=-=-=-=-=-=-=-=-=-");
+	}
+	
+}
